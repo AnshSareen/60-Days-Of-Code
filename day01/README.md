@@ -2,13 +2,14 @@
 
 ### 🧠 Problems Solved: 5
 
-| Problem                  | Topic                | Solution File                    | LeetCode Link                                           |
-|--------------------------|----------------------|----------------------------------|----------------------------------------------------------|
-| Count Primes             | Sieve of Eratosthenes| [Count_Primes.c](Count_Primes.c) | [LeetCode](https://leetcode.com/problems/count-primes)  |
-| Search Insert Position   | Binary Search        | [Search_Insert_Position.c](Search_Insert_Position.c) | [LeetCode](https://leetcode.com/problems/search-insert-position) |
-| Squares of a Sorted Array| Arrays, Sorting      | [Square_of_Sorted_Array.c](Square_of_Sorted_Array.c) | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array) |
-| Rotate Array             | Arrays, Two-Pointer  | [Rotate_Array.c](Rotate_Array.c) | [LeetCode](https://leetcode.com/problems/rotate-array) |
-| Distribute Candies       | Math, Combinatorics  | [Distribute_Candies.c](Distribute_Candies.c) | [LeetCode](https://leetcode.com/problems/distribute-candies-among-children-i) |
+| Problem                  | Topic                | Solution File                                             | LeetCode Link                                                 |
+|--------------------------|----------------------|------------------------------------------------------------|----------------------------------------------------------------|
+| Count Primes             | Sieve of Eratosthenes| [Count_Primes.c](Count_Primes.c)                           | [LeetCode](https://leetcode.com/problems/count-primes)        |
+| Search Insert Position   | Binary Search        | [Search_Insert_Position.c](Search_Insert_Position.c)       | [LeetCode](https://leetcode.com/problems/search-insert-position) |
+| Squares of a Sorted Array| Arrays, Sorting      | [Square_of_Sorted_Array.c](Square_of_Sorted_Array.c)       | [LeetCode](https://leetcode.com/problems/squares-of-a-sorted-array) |
+| Rotate Array             | Arrays, Two-Pointer  | [Rotate_Array.c](Rotate_Array.c)                           | [LeetCode](https://leetcode.com/problems/rotate-array)        |
+| Distribute Candies II    | Math, Combinatorics  | [Distribute_Candies.c](Distribute_Candies.c)               | [LeetCode](https://leetcode.com/problems/distribute-candies-among-children-ii) |
+
 
 ### 📘 Notes & Learnings
 
