@@ -1,4 +1,4 @@
-## Day 1 - 01-06-2025
+## 📅 Day 1 – LeetCode Problems( 01-06-2025 )
 
 ### 🧠 Problems Solved: 5
 
