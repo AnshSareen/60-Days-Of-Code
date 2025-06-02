@@ -5,9 +5,9 @@
 | Problem | Topic | Solution File |
 |--------|--------|----------------|
 | [Candy (135)](https://leetcode.com/problems/candy/) | Greedy, Two-Pass | [Candy.c](Candy.c) |
-| [Find All Numbers Disappeared in an Array (448)](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Arrays | [Find_Disappeared_Numbers.c](Find_Disappeared_Numbers.c) |
+| [Find All Numbers Disappeared in an Array (448)](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Arrays | [Find_Disappeared_Numbers.c](Numbers_Disappeared.c) |
 | [Reverse String (344)](https://leetcode.com/problems/reverse-string/) | Two-Pointer, Strings | [Reverse_String.c](Reverse_String.c) |
-| [Product of Array Except Self (238)](https://leetcode.com/problems/product-of-array-except-self/) | Arrays, Prefix/Suffix | [Product_Except_Self.c](Product_Except_Self.c) |
+| [Product of Array Except Self (238)](https://leetcode.com/problems/product-of-array-except-self/) | Arrays, Prefix/Suffix | [Product_Except_Self.c](Product_of_Array_Except_Self.c) |
 | [Maximum Subarray (53)](https://leetcode.com/problems/maximum-subarray/) | Dynamic Programming, Kadane’s Algorithm | [Maximum_Subarray.c](Maximum_Subarray.c) |
 
 ---
