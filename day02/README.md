@@ -12,7 +12,7 @@
 
 ---
 
-### 📝 Personal Insights
+### 📝 Notes and Learnings
 
 - **Candy (135)**: Had to think for a while—good greedy problem. Solved it using a double pass: left to right and right to left, ensuring each child gets more candies than a lower-rated neighbor.
 
