@@ -12,11 +12,11 @@
 
 ### 📘 Notes & Learnings
 
-- ✅ Learned the **Sieve of Eratosthenes** for the first time. I was initially solving `Count Primes` inefficiently, but discovering this algorithm helped me approach the problem optimally.
-- ✅ Revised **Binary Search** through the `Search Insert Position` problem — reinforced key patterns and edge-case handling.
-- ✅ The `Rotate Array` problem required some deeper thought. I challenged myself to optimize it using reversal instead of auxiliary space or brute force.
-- ✅ For the daily challenge `Distribute Candies`, I had to revise and apply **combinatorics** — specifically the **stars and bars** concept, and how it adapts when there's a **restriction per group**.
-- ✅ For `Squares of a Sorted Array`, I explored how squaring sorted numbers changes their order. Although I used sorting post-squaring, I now realize it could be optimized further using two pointers to avoid sorting.
+- Learned the **Sieve of Eratosthenes** for the first time. I was initially solving `Count Primes` inefficiently, but discovering this algorithm helped me approach the problem optimally.
+- Revised **Binary Search** through the `Search Insert Position` problem — reinforced key patterns and edge-case handling.
+- The `Rotate Array` problem required some deeper thought. I challenged myself to optimize it using reversal instead of auxiliary space or brute force.
+- For the daily challenge `Distribute Candies`, I had to revise and apply **combinatorics** — specifically the **stars and bars** concept, and how it adapts when there's a **restriction per group**.
+- For `Squares of a Sorted Array`, I explored how squaring sorted numbers changes their order. Although I used sorting post-squaring, I now realize it could be optimized further using two pointers to avoid sorting.
 
 ---
 
