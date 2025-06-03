@@ -1,5 +1,12 @@
 ## 📅 Day 1 – LeetCode Problems( 01-06-2025 )
 
+### 🌟 Daily LeetCode Challenge  
+Today’s official challenge:  
+🔹 **[Distribute Candies II (1103)](https://leetcode.com/problems/distribute-candies-among-children-ii)**  
+✔️ Solved as part of today’s problem set (listed below).
+
+---
+
 ### 🧠 Problems Solved: 5
 
 | Problem                                                                                        | Topic                  | Solution File                                             
