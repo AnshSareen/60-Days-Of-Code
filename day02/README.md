@@ -1,14 +1,21 @@
-## 📅 Day 2 – LeetCode Problems( 02-06-2025 )
+## 📅 Day 2 – LeetCode Problems (02-06-2025)
 
-### ✅ Problems Solved:5
+### 🌟 Daily LeetCode Challenge  
+Today’s official challenge:  
+🔹 **[Candy (135)](https://leetcode.com/problems/candy/)**  
+✔️ Solved as part of today’s problem set (listed below).
 
-| Problem | Topic | Solution File |
-|--------|--------|----------------|
-| [Candy (135)](https://leetcode.com/problems/candy/) | Greedy, Two-Pass | [Candy.c](Candy.c) |
-| [Find All Numbers Disappeared in an Array (448)](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Arrays | [Find_Disappeared_Numbers.c](Numbers_Disappeared.c) |
-| [Reverse String (344)](https://leetcode.com/problems/reverse-string/) | Two-Pointer, Strings | [Reverse_String.c](Reverse_String.c) |
-| [Product of Array Except Self (238)](https://leetcode.com/problems/product-of-array-except-self/) | Arrays, Prefix/Suffix | [Product_Except_Self.c](Product_of_Array_Except_Self.c) |
-| [Maximum Subarray (53)](https://leetcode.com/problems/maximum-subarray/) | Dynamic Programming, Kadane’s Algorithm | [Maximum_Subarray.c](Maximum_Subarray.c) |
+---
+
+### ✅ Problems Solved: 5
+
+| Problem                                                                                         | Topic                             | Solution File                                 |
+|--------------------------------------------------------------------------------------------------|-----------------------------------|-----------------------------------------------|
+| [Candy (135)](https://leetcode.com/problems/candy/)                                              | Greedy, Two-Pass                  | [Candy.c](Candy.c)                             |
+| [Find All Numbers Disappeared in an Array (448)](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Arrays                        | [Find_Disappeared_Numbers.c](Numbers_Disappeared.c) |
+| [Reverse String (344)](https://leetcode.com/problems/reverse-string/)                           | Two-Pointer, Strings              | [Reverse_String.c](Reverse_String.c)           |
+| [Product of Array Except Self (238)](https://leetcode.com/problems/product-of-array-except-self/)| Arrays, Prefix/Suffix             | [Product_Except_Self.c](Product_of_Array_Except_Self.c) |
+| [Maximum Subarray (53)](https://leetcode.com/problems/maximum-subarray/)                        | Dynamic Programming, Kadane’s     | [Maximum_Subarray.c](Maximum_Subarray.c)       |
 
 ---
 
