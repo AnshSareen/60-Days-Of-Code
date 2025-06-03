@@ -20,10 +20,10 @@ Today’s official challenge:
 
 ### 📘 Notes & Learnings
 
-- `Teemo Attacking` was a simple simulation problem—solved it quickly by accounting for time overlaps.
-- `Assign Cookies` was a great greedy brain teaser—sorting both arrays really helped simplify logic.
-- `Majority Element II` was **tough**. After multiple attempts, I learned it requires a modified **Boyer-Moore Voting Algorithm**. Once understood, I rewrote it myself.
-- `Max Candies from Boxes` was an intuitive implementation puzzle. Tracking opened boxes, collected keys, and looping with a `changed` flag helped ensure no box was missed — especially in edge cases with nested keys like box 999 down to 0.
+- `Teemo Attacking`  was a simple simulation problem—solved it very quickly by handling overlaps properly.
+- `Assign Cookies`was a clever greedy brain teaser—definitely good for warming up logic and learning how sorting aids minimal satisfaction conditions.
+- `Majority Element II`was very challenging. After trying hard, I checked discussions and discovered it uses a modified Boyer-Moore Voting Algorithm. Once I understood it, I implemented the logic myself confidently.
+- `Max Candies from Boxes` had an easy core idea, but the **implementation order mattered**. I learned to track opened boxes using a `bool` array and handle cycles or deep chaining (like box 999 unlocking box 998... down to box 0) using a `changed` flag loop — this guaranteed we consumed all reachable boxes and keys.
 
 ---
 
