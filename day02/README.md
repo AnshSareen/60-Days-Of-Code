@@ -23,3 +23,8 @@
 - **Product of Array Except Self (238)**: Initially solved using division, but then had to revise after learning division wasn’t allowed. Took a hint and learned about the prefix-suffix approach—new and insightful for me.
 
 - **Maximum Subarray (53)**: Identified it as a divide and conquer problem and also recognized the dynamic programming pattern. Though the divide and conquer solution was space-efficient, it took time to implement. The DP version is conceptually similar but uses an array to store previous results.
+
+---
+
+- As always, each solution here is extended into a **complete, runnable C program** with `main()` for clarity and local testing.  
+📌 **Note:** The original LeetCode problems only require implementing a specific function.
