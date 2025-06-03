@@ -18,5 +18,5 @@
 
 ---
 
-> As always, each solution here is extended into a **complete, runnable C program** with `main()` for clarity and local testing.
-> 📌 **Note:** The original LeetCode problems only require implementing a specific function.
+- As always, each solution here is extended into a **complete, runnable C program** with `main()` for clarity and local testing.  
+📌 **Note:** The original LeetCode problems only require implementing a specific function.
