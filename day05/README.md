@@ -13,7 +13,7 @@ Today’s official challenge:
 |----------------------------------------------------------------------------------------------------------|-----------------------------------|----------------------------------------------------|
 | [Array Partition](https://leetcode.com/problems/array-partition/)                                        | Greedy, Sorting                   | [array_partition.c](array_partition.c)            |
 | [Get Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                      | Arrays                            | [concatenation_of_array.c](concatenation_of_array.c) |
-| [Max Chunks To Make Sorted (Prefix Method)](https://leetcode.com/problems/max-chunks-to-make-sorted/)    | Arrays, Prefix Max/Min            | [max_chunks_prefix_method.c](max_chunks_prefix_method.c) |
+| [Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/)    | Arrays, Prefix Max/Min            | [max_chunks_to_make_sorted_ii.c](max_chunks_to_make_sorted_ii.c) |
 | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | Sliding Window, Counting          | [subarrays_with_bounded_maximum.c](subarrays_with_bounded_maximum.c) |
 | [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | Union Find, String Mapping        | [smallest_equivalent_string.c](smallest_equivalent_string.c) |
 
