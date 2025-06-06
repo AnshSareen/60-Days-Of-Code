@@ -27,3 +27,8 @@ Today’s official challenge:
 
 - As always, each solution here is extended into a **complete, runnable C program** with `main()` for clarity and local testing.  
 📌 **Note:** The original LeetCode problems only require implementing a specific function.
+
+---
+
+🏁 **Personal Milestone**: As of today, I’ve officially solved **50 LeetCode problems in total!**  
+This includes practice outside the 60 Days of Code challenge — proud to cross this benchmark! 🚀
