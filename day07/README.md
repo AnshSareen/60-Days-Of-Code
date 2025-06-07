@@ -8,7 +8,7 @@
 
 | # | Problem Title | Solution File |
 |---|---------------|----------------|
-| 1 | Lexicographically Minimum String After Removing Stars | [lexicographical_star_removal.c](lexicographical_star_removal.c) |
+| 1 | [3170. Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/) | [`lexicographical_star_removal.c`](lexicographical_star_removal.c) |
 
 ---
 
