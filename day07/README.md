@@ -2,7 +2,8 @@
 
 ### 🌟 Daily LeetCode Challenge  
 Today’s official challenge:  
-- [3170. Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/)
+🔹 **[3170. Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/)**  
+✔️ Solved as part of today’s problem set (listed below).
 
 ---
 
