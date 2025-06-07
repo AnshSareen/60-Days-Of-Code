@@ -1,6 +1,7 @@
-## 🚀 Day 07 - LeetCode Challenge
+## 📅 Day 07 - June 07, 2025
 
-- 🔗 [3170. Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/) *(Part of today's set)*
+### 🔗 Today's LeetCode Challenge:
+- [3170. Lexicographically Minimum String After Removing Stars](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/)
 
 ---
 
