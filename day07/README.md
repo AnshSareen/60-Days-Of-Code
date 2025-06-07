@@ -8,7 +8,7 @@
 
 | # | Problem Title | Solution File |
 |---|---------------|----------------|
-| 1 | Lexicographically Minimum String After Removing Stars | [`day07_clear_stars.c`](day07_clear_stars.c) |
+| 1 | Lexicographically Minimum String After Removing Stars | [lexicographical_star_removal.c](lexicographical_star_removal.c) |
 
 ---
 
