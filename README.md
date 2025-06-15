@@ -1,4 +1,4 @@
-#60 Days of Code 💻🔥
+# 60 Days of Code 💻🔥
 
 Welcome to my **60 Days of Code** challenge! For the next 60 days, I’ll be committing code daily to sharpen my problem-solving, improve consistency, and build stronger habits as a programmer.
 
