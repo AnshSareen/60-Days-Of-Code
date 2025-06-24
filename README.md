@@ -28,4 +28,4 @@ Some LeetCode solutions were originally written as function-only templates. In t
 
 ---
 
-Thanks for visiting!🚀
+Thanks for visiting! 🚀
